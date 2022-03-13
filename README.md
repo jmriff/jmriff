@@ -4,9 +4,9 @@
 - optimizing warehouse operations, procurement, and planning & MRP
 - connecting SAP to parcel shipping companies, such as FedEx, UPS and DHL
 
-💞️ I advise and consult on SAP supply chain logistics for ECC and S/4HANA.
+💞️ I advise and consult on SAP supply chain logistics for ECC and S/4HANA.  I am using github to support my blogging activities.
 
-📫 You can reach me on LinkedIn at https://www.linkedin.com/in/joshriff/
+📫 Please reach me on LinkedIn at https://www.linkedin.com/in/joshriff/
 
 <!---
 jmriff/jmriff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
