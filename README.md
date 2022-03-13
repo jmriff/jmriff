@@ -1,4 +1,4 @@
-👋 Hi, I’m Josh Riff  (@jmriff\)
+👋 Hi, I’m @jmriff
 
 👀 I help pharmaceutical and healthcare companies run SAP. I maximize on-time, in-full orders to customers by
 - optimizing warehouse operations, procurement, and planning & MRP
@@ -6,7 +6,7 @@
 
 💞️ I advise and consult on SAP supply chain logistics for ECC and S/4HANA.  I am using github to post my blogs.
 
-📫 Please reach me on LinkedIn at https://www.linkedin.com/in/joshriff/
+📫 Please reach me on LinkedIn at https://www.linkedin.com/in/joshriff/.
 
 <!---
 jmriff/jmriff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
